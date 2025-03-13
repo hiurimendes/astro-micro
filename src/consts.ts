@@ -1,40 +1,40 @@
 import type { Metadata, Site, Socials } from "@types";
 
 export const SITE: Site = {
-  TITLE: "Astro Micro",
-  DESCRIPTION: "Astro Micro is an accessible and lightweight blog.",
-  EMAIL: "trevortylerlee@gmail.com",
-  NUM_POSTS_ON_HOMEPAGE: 5,
-  NUM_PROJECTS_ON_HOMEPAGE: 3,
+  TITLE: "HM Tecnologia",
+  DESCRIPTION: "Hiuri Mendes Blog.",
+  EMAIL: "hiurimendes@gmail.com",
+  NUM_POSTS_ON_HOMEPAGE: 3,
+  NUM_PROJECTS_ON_HOMEPAGE: 2,
 };
 
 export const HOME: Metadata = {
   TITLE: "Home",
-  DESCRIPTION: "Astro Micro is an accessible theme for Astro.",
+  DESCRIPTION: "Conheça mais do meu trabalho",
 };
 
 export const BLOG: Metadata = {
   TITLE: "Blog",
-  DESCRIPTION: "A collection of articles on topics I am passionate about.",
+  DESCRIPTION: "Uma coleção de artigos sobre tópicos pelos quais sou apaixonado.",
 };
 
 export const PROJECTS: Metadata = {
-  TITLE: "Projects",
+  TITLE: "Projetos",
   DESCRIPTION:
-    "A collection of my projects with links to repositories and live demos.",
+    "Uma coleção de meus projetos com links para repositórios e demonstrações.",
 };
 
 export const SOCIALS: Socials = [
   {
-    NAME: "X (formerly Twitter)",
-    HREF: "https://twitter.com/boogerbuttcheek",
+    NAME: "X (Twitter)",
+    HREF: "https://twitter.com/hiuri_mendes",
   },
   {
     NAME: "GitHub",
-    HREF: "https://github.com/trevortylerlee",
+    HREF: "https://github.com/hiurimendes",
   },
   {
     NAME: "Website",
-    HREF: "https://trevortylerlee.com",
+    HREF: "https://hiurimendes.com.br",
   },
 ];
