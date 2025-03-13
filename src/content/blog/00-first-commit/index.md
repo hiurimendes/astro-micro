@@ -1,0 +1,23 @@
+---
+title: "Initial Commit"
+description: "O Começo de Uma Jornada."
+date: "2025-03-13"
+tag:
+  - reference
+---
+
+import Callout from "@/components/Callout.astro";
+
+---
+
+## O Começo
+
+Hoje marco o "initial commit" deste projeto, o primeiro passo de uma jornada que vai muito além do código. Criar algo do zero, seja uma aplicação, um site ou até mesmo um blog, sempre traz aquele sentimento de realização. É o momento em que as ideias começam a tomar forma e o caminho da criação é oficialmente aberto.
+
+O "initial commit" é mais do que apenas adicionar os primeiros arquivos ao repositório, ele simboliza o início de um trabalho constante, de evolução e aprendizado. Cada linha de código escrita, cada desafio superado, e cada nova funcionalidade implementada representam um passo à frente em um projeto que, no final, tem o poder de impactar positivamente quem o utiliza.
+
+Neste blog, vou compartilhar não apenas os projetos que estou desenvolvendo, mas também as ideias e insights que surgem no processo. A intenção aqui é criar um espaço onde possamos aprender juntos, discutir novas tecnologias, metodologias e refletir sobre o impacto que a tecnologia tem em nossas vidas.
+
+Então, este é o "initial commit" de muitas outras postagens que virão. Fico feliz em começar essa jornada com você e espero que possamos crescer e evoluir juntos.
+
+Vamos em frente! 🚀
